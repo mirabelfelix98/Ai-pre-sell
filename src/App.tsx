@@ -118,7 +118,7 @@ export default function App() {
                 {/* Invisible overlay to block right-clicking on the top section (where YouTube title/share buttons appear) */}
                 <div className="absolute top-0 left-0 right-0 h-20 z-20 bg-transparent" onContextMenu={(e) => e.preventDefault()}></div>
                 <iframe
-                  src="https://www.youtube.com/embed/IXvVGBGdU_w?rel=0&modestbranding=1&playsinline=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&loop=1&playlist=IXvVGBGdU_w"
+                  src="https://www.youtube.com/embed/eC8pPWcLk2s?rel=0&modestbranding=1&playsinline=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&loop=1&playlist=eC8pPWcLk2s"
                   title="AI Business Mastery — Watch This First"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   className="w-full h-full border-none"
